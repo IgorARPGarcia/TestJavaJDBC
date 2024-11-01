@@ -1,3 +1,3 @@
 <p align = "center">  
-  <img width = 300 height = 300 src = "src/ResultImage/Result.png">
+  <img width = 1920 height = 1080 src = "src/ResultImage/Result.png">
 </p>
