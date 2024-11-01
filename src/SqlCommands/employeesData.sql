@@ -7,7 +7,8 @@ create Table employees.employeesData
 );
 
 insert into employees.employeesData (employeeId, lastName, salary) values
-    (52, "Parker", 230.000),
-    (32, "Emmich", 450.000),
-    (15, "Lopes", 200.000),
-    (21, "Vieira", 300.500)
+	(24, "Silva", 120.000),
+    	(52, "Parker", 230.000),
+    	(32, "Emmich", 450.000),
+    	(15, "Lopes", 200.000),
+    	(21, "Vieira", 300.500)
