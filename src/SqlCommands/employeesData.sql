@@ -2,8 +2,8 @@ use employees;
 create Table employees.employeesData
 (
 	employeeId int primary key,
-    lastName varchar (20),
-    salary decimal (6, 3)
+    	lastName varchar (20),
+    	salary decimal (6, 3)
 );
 
 insert into employees.employeesData (employeeId, lastName, salary) values
